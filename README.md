@@ -11,7 +11,7 @@ I'm passionate about turning ideas into innovative, user-friendly software. I lo
 ## What I'm currently building 🛠️
 - I'm Bored App
   - A full-stack web application that eliminates boredom by randomly selecting an activity for the user to complete.
-- Personal Portfolio 
+    
 ## Full-Stack Software Development & System Design 💻
 
 ### Languages
@@ -74,3 +74,6 @@ I'm passionate about turning ideas into innovative, user-friendly software. I lo
 ![RBAC](https://img.shields.io/badge/Role_Based_Access_Control-0078D4?style=for-the-badge)
 ![HTTPS](https://img.shields.io/badge/HTTPS-006400?style=for-the-badge)
 ![CORS](https://img.shields.io/badge/CORS-FF6F00?style=for-the-badge)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/TommyJu?theme=dark)
+
