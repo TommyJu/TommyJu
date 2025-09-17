@@ -9,8 +9,8 @@ I'm passionate about turning ideas into innovative, user-friendly software. I lo
   - Collaborated with a team to develop a cross-platform mobile application for BCIT’s Renewable Resources program to streamline and digitize the process of creating and managing field safety forms.
 
 ## What I'm currently building 🛠️
-- I'm Bored App
-  - A full-stack web application that eliminates boredom by randomly selecting an activity for the user to complete.
+- Side Quests: "Real-life adventures that help you grow while you play"
+  - A full-stack web application built with C# and the .NET framework that utilizes AI to suggest healthy, productive activities, and allows users to track their progress.
     
 ## Full-Stack Software Development & System Design 💻
 
