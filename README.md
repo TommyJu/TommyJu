@@ -7,10 +7,11 @@ I'm passionate about turning ideas into innovative, user-friendly software. I lo
   - Developed a real-time supernova alert system for Android as part of a capstone collaboration with BCIT’s Physics Department.
 - RENR Mobile
   - Collaborated with a team to develop a cross-platform mobile application for BCIT’s Renewable Resources program to streamline and digitize the process of creating and managing field safety forms.
-
-## What I'm currently building 🛠️
 - Side Quests: "Real-life adventures that help you grow while you play"
   - A full-stack web application built with C# and the .NET framework that utilizes AI to suggest healthy, productive activities, and allows users to track their progress.
+
+## What I'm currently building 🛠️
+- A real-time chat application using the MERN stack.
     
 ## Full-Stack Software Development & System Design 💻
 
