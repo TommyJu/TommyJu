@@ -10,6 +10,4 @@ I love programming because it's fun to constantly learn new things that can help
 - **Email:** [tommyju.dev@gmail.com](mailto:Tommyju.dev@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/tommyju](https://www.linkedin.com/in/tommyju/)
 
-<div align="center">
-  <img src="https://static2.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/70/c0/TGQw6Pyt.gif" width="300" alt="Cat coding">
-</div>
+<img src="https://static2.klipy.com/ii/c3a19a0b747a76e98651f2b9a3cca5ff/70/c0/TGQw6Pyt.gif" width="80" alt="Cat coding">
